@@ -8,7 +8,7 @@ export default function GalleryWidget() {
     "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=800",
     "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=800",
     "https://images.pexels.com/photos/1198817/pexels-photo-1198817.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "https://images.pexels.com/photos/248616/pexels-photo-248616.jpeg?auto=compress&cs=tinysrgb&w=800",
+   
   ]);
 
   const scrollRef = useRef(null);
